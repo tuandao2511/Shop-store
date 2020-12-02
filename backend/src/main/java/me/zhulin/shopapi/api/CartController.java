@@ -15,6 +15,8 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.bind.annotation.*;
 
+import lombok.var;
+
 import java.security.Principal;
 import java.util.Collection;
 import java.util.Collections;
